@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c0be188.css",
+    "main.js": "/static/js/main.a9850915.js",
+    "static/js/787.a65c85aa.chunk.js": "/static/js/787.a65c85aa.chunk.js",
+    "static/media/serviceImage3.png": "/static/media/serviceImage3.c4cc744e593aa94ba5bc.png",
+    "static/media/register-bg.jpg": "/static/media/register-bg.951d161274c555a71985.jpg",
+    "static/media/lockscreen-bg.jpg": "/static/media/lockscreen-bg.5f5074b5d05fd6cd07f5.jpg",
+    "static/media/login-bg.jpg": "/static/media/login-bg.7593b671c1b315317231.jpg",
+    "static/media/loginBg.jpg": "/static/media/loginBg.7593b671c1b315317231.jpg",
+    "static/media/serviceImage1.jpg": "/static/media/serviceImage1.ffe5b78e9d498935f60a.jpg",
+    "static/media/abt.jpg": "/static/media/abt.c4abfeaca5272a298684.jpg",
+    "static/media/serviceImage2.jpg": "/static/media/serviceImage2.7c472dabac1a9833a90c.jpg",
+    "static/media/banner.jpg": "/static/media/banner.192b4fd44460b11ac0b5.jpg",
+    "static/media/contactUs.jpg": "/static/media/contactUs.9c8f5a5d2ce5d6a97e33.jpg",
+    "static/media/SMSLogo.png": "/static/media/SMSLogo.953b6f1fd1e5c140942d.png",
+    "static/media/SMSDarkLogo.png": "/static/media/SMSDarkLogo.d8c22b16d93a732245a5.png",
+    "static/media/i15.jpg": "/static/media/i15.e98408cb691b3f44db97.jpg",
+    "index.html": "/index.html",
+    "main.2c0be188.css.map": "/static/css/main.2c0be188.css.map",
+    "main.a9850915.js.map": "/static/js/main.a9850915.js.map",
+    "787.a65c85aa.chunk.js.map": "/static/js/787.a65c85aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c0be188.css",
+    "static/js/main.a9850915.js"
+  ]
+}
